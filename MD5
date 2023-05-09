@@ -1,0 +1,16 @@
+f5a2724367ae133a943b13f5e9a23257 *DESCRIPTION
+09972a845625c5993cb5b2bffd0f6376 *NAMESPACE
+a6b88d170106f8e84c50e8c9612b19d8 *R/create_task.R
+d8fa962f722aa68185d704805971e1dd *R/create_task_shortcut.R
+19b0119078558a989426ec2e983accc7 *R/hostUnix.R
+ed8d94bd5dcda65b99b739bb012f6e7d *R/hostWin.R
+c8998c35bbedb2a84b9808831d8773ed *R/shiny_exe.R
+33a7890a5ea0f6401a12f6f4885e8d39 *README.md
+0e36c46ee358be13840f10f3d1a6894b *build/vignette.rds
+2e2607a2f1ebb369c7ec2bd3ee4c4aa0 *inst/doc/shiny_exe.R
+d79c1a9aa5712e7b108fe4b9058be069 *inst/doc/shiny_exe.Rmd
+596ca1a89a24536ff9a1d226d8e284d2 *inst/doc/shiny_exe.html
+b9a30e569395ae32ea7213284fad552d *man/hostUnix.Rd
+1ac0f3b804dd225379c6fcd3d89097ee *man/hostWin.Rd
+0bc492a2af99d6ce121706952950c1f1 *man/shiny.exe.Rd
+d79c1a9aa5712e7b108fe4b9058be069 *vignettes/shiny_exe.Rmd
